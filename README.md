@@ -1,5 +1,3 @@
-File: README.md
-
 # Recursive File Scanner with Regex Matching
 
 ## Overview
@@ -77,3 +75,5 @@ Code Quality
     Efficient memory utilization and high-performance regex matching are emphasized.
 
 License
+
+GNU General Public License (GPL)
